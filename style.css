@@ -29,7 +29,10 @@
     font-size: 9pt;
     /* width: 100%; */
   }
-  
+  table {
+    min-width: 170px; /* テーブルの横幅を設定 */
+    max-width: 1400px; /* テーブルの横幅を設定 */
+  }
   .leaflet-popup-content-wrapper, .leaflet-popup-tip {
     background: rgba(0, 0, 0, 0.8);
     color: #fff;
