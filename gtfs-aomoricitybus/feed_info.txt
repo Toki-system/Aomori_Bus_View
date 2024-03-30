@@ -1,0 +1,2 @@
+﻿feed_publisher_name,feed_publisher_url,feed_contact_url,feed_contact_email,feed_lang,feed_start_date,feed_end_date,feed_version
+青森市企業局交通部,http://www.city.aomori.aomori.jp/koutsu/top.html,http://www.city.aomori.aomori.jp/koutsu/top.html,sonosujiya@gmail.com,ja,20231204,20241203,20231204_2023年12月04日（2023.12.04改正　冬ダイヤ◆ver13◆確定版◆Google・バスロケ・DS・Plus・mini・ その筋屋 1.664
