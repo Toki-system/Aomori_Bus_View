@@ -2,7 +2,9 @@
 
 ## 概要
 GTFS_Bus_Viewは、GTFS-JPおよびGTFS-RT形式のバス情報データをブラウザ上で可視化するプログラムです。
+
 時刻表、バス停の位置、遅延情報などを表示します。
+
 Aomori_City_View [https://toki-system.github.io/GTFS_Bus_View/] に公開されているデモをご覧いただけます。
 
 ## インストール
