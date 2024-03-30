@@ -7,7 +7,7 @@ GTFS_Bus_Viewは、GTFS-JPおよびGTFS-RT形式のバス情報データをブ�
 
 Aomori_City_View [https://toki-system.github.io/GTFS_Bus_View/] に公開されているデモをご覧いただけます。
 
-## インストール
+## インストール(まだ使えません)
 1. このレポジトリをクローンしてください。
 2.クローンしたフォルダ内で以下のコマンドを実行して必要なライブラリをインストールしてください。
     ```sh
